@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/clumsybird666/wxopen-study/issues"
   },
-  "homepage": "https://github.com/clumsybird666/wxopen-study#readme"
+  "homepage": "https://github.com/clumsybird666/wxopen-study#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "sha1": "^1.1.1",
+    "xml2js": "^0.4.23"
+  }
 }
